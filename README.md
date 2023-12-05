@@ -13,6 +13,9 @@ The dataset is Emotion Detection (2020), provided by Kaggle. This dataset contai
 ### Results
 
 ### Individual Contributions
+### evaluation:
+![67815e3a44ee1d0b9072f762e159680](https://github.com/abdela47/CSC490-The-Elite-Five/assets/71008668/0f7a002c-ca87-478e-9cb0-5b8d3996a3ac)
+![c32f8907c341211d79cde6887f647ed](https://github.com/abdela47/CSC490-The-Elite-Five/assets/71008668/a858370b-f75c-4d55-bdd5-ffd77fdbbb62)
 
 ### Running The Model
 - Upload a zip of the dataset to your Google Drive account. Paste the path to the zip file into two locations marked with "TODO: Replace with path to dataset zip in your drive". This is to ensure that Google Colab can unzip the file into its file system. This is done to overcome the large overhead of directly reading files from Google Drive

@@ -1,7 +1,6 @@
 # CSC490-The-Elite-Five
-## The Problem
-## Dataset
-## Implementation
-## Results
-## Individual Contributions
-## Running The Model
+## Project Name: Human Emotion Detection
+## Contributors: Ahmed Abdelaziz, 
+
+### We used Google Colab to write and run our code. We used Google Drive to store the dataset as a zip file. 
+## !!MAKE SURE TO KEEP THE DATASET AS A ZIP!!
